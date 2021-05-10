@@ -1,4 +1,4 @@
-import React, {createContext, useReducer} from 'react';
+import {createContext, useReducer} from 'react';
 import {IState, IAction} from './interfaces'
 
 const initialState: IState = {
